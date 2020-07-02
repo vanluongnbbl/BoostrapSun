@@ -1,0 +1,75 @@
+.training .title {
+    text-align: center;
+    margin: 40px 0;
+    color: #ff0000;
+}
+
+.card-img-top {
+    height: 200px;
+}
+
+nav strong {
+    color: #ff0000;
+}
+
+.training .col-12 {
+    margin-bottom: 30px;
+}
+
+.sidebar {
+    padding: 0 20px;
+}
+
+.sidebar > div {
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+.sidebar form input {
+    margin-bottom: 15px;
+}
+
+.sidebar .title {
+    color: #000;
+}
+
+.sidebar .desc {
+    text-align: justify;
+}
+
+footer {
+    background-color: #1c2331;
+    color: #fff;
+
+    padding: 40px 0;
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer ul li {
+    color: #fff;
+}
+
+footer a {
+    color: #fff;
+}
+
+footer a:hover {
+    text-decoration: none;
+    color: #fff;
+
+    opacity: 0.8;
+}
+
+footer ul .fas {
+    margin-right: 10px;
+}
+
+@media (max-width: 768px) {
+    .course .col-12 {
+        display: flex;
+        justify-content: center;
+    }
+}
